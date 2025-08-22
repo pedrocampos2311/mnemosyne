@@ -1,2 +1,2 @@
 # mnemosyne
-pedro
+mnemosyne
